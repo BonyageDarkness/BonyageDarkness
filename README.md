@@ -1,10 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=HELLO%20AWERYWONE!%20^^&section=header&reversal=true&textBg=false&fontColor=02b295&fontSize=55&fontAlign=50&fontAlignY=85&descAlign=60&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=HELLO%20EVERYONE!%20^^&section=header&reversal=true&textBg=false&fontColor=02b295&fontSize=55&fontAlign=50&fontAlignY=85&descAlign=60&animation=twinkling"/>
 </p>
 
-# <img src="/assets/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker" width="100"/> About Me:
+# <img src="/assets/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker" width="100"/> Hello World! I'm Bohdan, a Junior Web Developer:
 
-New<br>
+🎓 Studying at **GOIT Full-Stack Developer Course**, expected graduation in **December 2024**.
+
+### 🚀 What I'm working on:
+
+- **Nanny Services** – a platform for finding and booking babysitters (React & Firebase)
+- **Phaser Game** – experimenting with game development using Phaser
+- **Travel Trucks** – (details coming soon...)
+
+### 💻 Team Projects:
+
+- **Star Force** – (details coming soon...)
+- **Water Tracker** – (details coming soon...)
+- **Green Harvest** – (details coming soon...)
+- **Overview Project** – (details coming soon...)
+
+---
 
 # <img src="/assets/mao-isara-ensemble-stars.gif" alt="Mao Isara Ensemble Stars" width="100"/> Tech Stack:
 
