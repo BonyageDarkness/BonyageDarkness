@@ -8,16 +8,16 @@
 
 ### 🚀 My Projects:
 
-- **Nanny Services** – a platform for finding and booking babysitters (React, React Router, Redux Toolkit, Firebase, React Hook Form, Yup, CSS Modules).
-- **Phaser Game** – developing a browser game using Phaser
-- **Travel Trucks** – a camper rental platform with filtering and booking functionality (React, Redux, React Router, Axios, React Toastify, CSS Modules, Vite, MockAPI).
+- [**Nanny Services**](#) – a platform for finding and booking babysitters (React, React Router, Redux Toolkit, Firebase, React Hook Form, Yup, CSS Modules).
+- [**Phaser Game**](#) – developing a browser game using Phaser
+- [**Travel Trucks**](https://github.com/BonyageDarkness/Travel_Trucks) – a camper rental platform with filtering and booking functionality (React, Redux, React Router, Axios, React Toastify, CSS Modules, Vite, MockAPI).
 
 ### 💻 Team Projects:
 
-- **Star Force** – a space shooter game with a 3D carousel animation (JavaScript, Vanilla-tilt, HTML, SCSS).
-- **Water Tracker** – a web app for tracking daily water intake with a REST API backend (React, Redux, Node.js, Express, MongoDB, Swagger).
-- **Overview Project** – a business card website with structured content sections, smooth animations, and responsive design (JavaScript, HTML, CSS, Vite).
-- **Green Harvest** – a responsive landing page for an organic food store (HTML, CSS).
+- [**Star Force**](https://stp-7965-own.vercel.app/) – a landing page for a casual space action game. Features a 3D carousel animation and interactive elements (JavaScript, Vanilla-tilt, HTML, SCSS).
+- [**Water Tracker**](#) – a web app for tracking daily water intake with a REST API backend (React, Redux, Node.js, Express, MongoDB, Swagger).
+- [**Overview Project**](https://andriygoncharuk.github.io/gr06-project-js/) – a business card website with structured content sections, smooth animations, and responsive design (JavaScript, HTML, CSS, Vite).
+- [**Green Harvest**](#) – a responsive landing page for an organic food store (HTML, CSS).
 
 ---
 
