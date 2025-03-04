@@ -2,11 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=HELLO%20AWERYWONE!%20^^&section=header&reversal=true&textBg=false&fontColor=02b295&fontSize=55&fontAlign=50&fontAlignY=85&descAlign=60&animation=twinkling"/>
 </p>
 
-# <p align="center">
-
+<p align="center">
   <span>
     <img src="/assets/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker" width="100"/>
-    <strong>About Me:</strong>
+    <span style="font-size: 24px; font-weight: bold;">About Me:</span>
   </span>
 </p>
 
