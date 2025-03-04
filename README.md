@@ -6,20 +6,18 @@
 
 🎓 Graduated from **GOIT Full-Stack Developer Course** in **December 2024**.
 
-🎓 Graduated from **GOIT Full-Stack Developer Course** in **December 2024**.
-
 ### 🚀 My Projects:
 
-- <a href="https://bonyagedarkness.github.io/Nanny-Services/" target="_blank"><strong>Nanny Services</strong></a> – a platform for finding and booking babysitters (React, React Router, Redux Toolkit, Firebase, React Hook Form, Yup, CSS Modules).
-- <a href="https://github.com/BonyageDarkness/Travel_Trucks" target="_blank"><strong>Travel Trucks</strong></a> – a camper rental platform with filtering and booking functionality (React, Redux, React Router, Axios, React Toastify, CSS Modules, Vite, MockAPI).
-- <a href="https://phaser-game-arkanoid.vercel.app/" target="_blank"><strong>Phaser Game</strong></a> – developing a browser game using Phaser.
+- [**Nanny Services**](https://bonyagedarkness.github.io/Nanny-Services/) – a platform for finding and booking babysitters (React, React Router, Redux Toolkit, Firebase, React Hook Form, Yup, CSS Modules).
+- [**Travel Trucks**](https://github.com/BonyageDarkness/Travel_Trucks) – a camper rental platform with filtering and booking functionality (React, Redux, React Router, Axios, React Toastify, CSS Modules, Vite, MockAPI).
+- [**Phaser Game**](https://phaser-game-arkanoid.vercel.app/) – developing a browser game using Phaser
 
 ### 💻 Team Projects:
 
-- <a href="https://stp-7965-own.vercel.app/" target="_blank"><strong>Star Force</strong></a> – a landing page for a casual space action game. Features a 3D carousel animation and interactive elements (JavaScript, Vanilla-Tilt, HTML, SCSS).
-- <a href="https://experienced-developers.vercel.app/welcome" target="_blank"><strong>Water Tracker</strong></a> – a web app for tracking daily water intake with a REST API backend (React, Redux, Node.js, Express, MongoDB, Swagger).
-- <a href="https://andriygoncharuk.github.io/gr06-project-js/" target="_blank"><strong>Overview Project</strong></a> – a business card website with structured content sections, smooth animations, and responsive design (JavaScript, HTML, CSS, Vite).
-- <a href="https://bigblackjoke.github.io/GreenHarvest-Group-21/" target="_blank"><strong>Green Harvest</strong></a> – a responsive landing page for an organic food store (HTML, CSS).
+- [**Star Force**](https://stp-7965-own.vercel.app/) – a landing page for a casual space action game. Features a 3D carousel animation and interactive elements (JavaScript, Vanilla-tilt, HTML, SCSS).
+- [**Water Tracker**](https://experienced-developers.vercel.app/welcome) – a web app for tracking daily water intake with a REST API backend (React, Redux, Node.js, Express, MongoDB, Swagger).
+- [**Overview Project**](https://andriygoncharuk.github.io/gr06-project-js/) – a business card website with structured content sections, smooth animations, and responsive design (JavaScript, HTML, CSS, Vite).
+- [**Green Harvest**](https://bigblackjoke.github.io/GreenHarvest-Group-21/) – a responsive landing page for an organic food store (HTML, CSS).
 
 ---
 
