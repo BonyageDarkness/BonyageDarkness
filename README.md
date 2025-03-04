@@ -30,3 +30,7 @@
 # <img src="/assets/29_Mao_Isara_Chibi.webp" alt="Mao Isara Chibi" width="100" > Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/380743058939183114) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nyaxd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bon.nya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bonyagem/)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Thank%20You%20For%20Watching!&section=footer&fontSize=55&fontAlign=50&fontAlignY=15&animation=twinkling&fontColor=02b295"/>
+</p>
