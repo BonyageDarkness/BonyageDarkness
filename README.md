@@ -4,8 +4,9 @@
 
 # <p align="center">
 
-  <img src="/assets/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker"/>
- About Me:</p>
+  <img src="/assets/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker" width="100"/>
+  <strong>About Me:</strong>
+</p>
 
 New<br>
 
