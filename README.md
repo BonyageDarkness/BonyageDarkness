@@ -4,26 +4,28 @@
 
 # <img src="/assets/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker" width="100"/> Hello World! I'm Bohdan, a Junior Web Developer:
 
-🎓 Studying at **GOIT Full-Stack Developer Course**, expected graduation in **December 2024**.
+🎓 Graduated from **GOIT Full-Stack Developer Course** in **December 2024**.
 
-### 🚀 What I'm working on:
+### 🚀 My Projects:
 
-- **Nanny Services** – a platform for finding and booking babysitters (React & Firebase)
-- **Phaser Game** – experimenting with game development using Phaser
-- **Travel Trucks** – (details coming soon...)
+- **Nanny Services** – a platform for finding and booking babysitters (React, React Router, Redux Toolkit, Firebase, React Hook Form, Yup, CSS Modules).
+- **Phaser Game** – developing a browser game using Phaser
+- **Travel Trucks** – a camper rental platform with filtering and booking functionality (React, Redux, React Router, Axios, React Toastify, CSS Modules, Vite, MockAPI).
 
 ### 💻 Team Projects:
 
-- **Star Force** – (details coming soon...)
-- **Water Tracker** – (details coming soon...)
-- **Green Harvest** – (details coming soon...)
-- **Overview Project** – (details coming soon...)
+- **Star Force** – a space shooter game with a 3D carousel animation (JavaScript, Vanilla-tilt, HTML, SCSS).
+- **Water Tracker** – a web app for tracking daily water intake with a REST API backend (React, Redux, Node.js, Express, MongoDB, Swagger).
+- **Overview Project** – a business card website with structured content sections, smooth animations, and responsive design (JavaScript, HTML, CSS, Vite).
+- **Green Harvest** – a responsive landing page for an organic food store (HTML, CSS).
 
 ---
 
 # <img src="/assets/mao-isara-ensemble-stars.gif" alt="Mao Isara Ensemble Stars" width="100"/> Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+
+---
 
 # <img src="/assets/29_Mao_Isara_Chibi.webp" alt="Mao Isara Chibi" width="100" > Socials:
 
