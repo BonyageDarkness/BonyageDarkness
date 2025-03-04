@@ -3,16 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=HELLO%20AWERYWONE!%20^^&section=header&reversal=true&textBg=false&fontColor=02b295&fontSize=55&fontAlign=50&fontAlignY=85&descAlign=60&animation=twinkling"/>
 </p>
 
-<div align="center">
-  <div class="tenor-gif-embed" data-postid="15669207" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-    <a href="https://tenor.com/view/ensemble-stars-enstars-mao-isara-welcome-ei-gif-15669207">
-      Ensemble Stars Enstars Sticker
-    </a> from 
-    <a href="https://tenor.com/search/ensemble+stars-stickers">Ensemble Stars Stickers</a>
-  </div> 
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/4ZQc-IoN0DsAAAAC/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker"/>
+</p>
 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
