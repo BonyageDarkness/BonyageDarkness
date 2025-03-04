@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=HELLO%20AWERYWONE!%20^^&section=header&reversal=true&textBg=false&fontColor=02b295&fontSize=55&fontAlign=50&fontAlignY=85&descAlign=60&animation=twinkling"/>
 </p>
 
-<p align="center">
-  <span>
-    <img src="/assets/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker" width="100"/>
-    <span style="font-size: 24px; font-weight: bold;">About Me:</span>
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="/assets/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker" width="100"></td>
+    <td><h1>About Me</h1></td>
+  </tr>
+</table>
 
 # 💻 Tech Stack:
 
