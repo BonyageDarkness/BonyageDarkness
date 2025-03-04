@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=HELLO%20AWERYWONE!%20^^&section=header&reversal=true&textBg=false&fontColor=02b295&fontSize=55&fontAlign=50&fontAlignY=85&descAlign=60&animation=twinkling"/>
 </p>
 
-<img src="/assets/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker" width="100"/>
-
-# 💫 About Me:
+# <img src="/assets/ensemble-stars-enstars.gif" alt="Ensemble Stars Enstars Sticker" width="100"/> About Me:
 
 New<br>
 
