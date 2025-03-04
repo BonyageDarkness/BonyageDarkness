@@ -1,5 +1,7 @@
-https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=HELLO%20AWERYWONE!%20^^&section=header&reversal=true&textBg=false&fontColor=02b295&fontSize=66&fontAlign=50&fontAlignY=85&descAlign=60&animation=twinkling
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=HELLO%20AWERYWONE!%20^^&section=header&reversal=true&textBg=false&fontColor=02b295&fontSize=66&fontAlign=50&fontAlignY=85&descAlign=60&animation=twinkling"/>
+</p>
 # 💫 About Me:
 New<br>
 
