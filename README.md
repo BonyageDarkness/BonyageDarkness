@@ -15,7 +15,7 @@
 ### 💻 Team Projects:
 
 - [**Star Force**](https://stp-7965-own.vercel.app/) – a landing page for a casual space action game. Features a 3D carousel animation and interactive elements (JavaScript, Vanilla-tilt, HTML, SCSS).
-- [**Water Tracker**](https://experienced-developers.vercel.app/welcome) – a web app for tracking daily water intake with a REST API backend (React, Redux, Node.js, Express, MongoDB, Swagger).
+- [**Water Tracker**](https://experienced-developers.vercel.app/) – a web app for tracking daily water intake with a REST API backend (React, Redux, Node.js, Express, MongoDB, Swagger).
 - [**Overview Project**](https://andriygoncharuk.github.io/gr06-project-js/) – a business card website with structured content sections, smooth animations, and responsive design (JavaScript, HTML, CSS, Vite).
 - [**Green Harvest**](https://bigblackjoke.github.io/GreenHarvest-Group-21/) – a responsive landing page for an organic food store (HTML, CSS).
 
