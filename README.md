@@ -8,6 +8,7 @@
 
 ### 🚀 My Projects:
 
+- [**Read Journey**](https://read-journey-chi.vercel.app/) – a personal reading progress tracker with authentication, recommended books, and reading diary (React, Redux Toolkit, React Router, Axios, Yup, SCSS Modules, Vite, Vercel).
 - [**Nanny Services**](https://bonyagedarkness.github.io/Nanny-Services/) – a platform for finding and booking babysitters (React, React Router, Redux Toolkit, Firebase, React Hook Form, Yup, CSS Modules).
 - [**Travel Trucks**](https://github.com/BonyageDarkness/Travel_Trucks) – a camper rental platform with filtering and booking functionality (React, Redux, React Router, Axios, React Toastify, CSS Modules, Vite, MockAPI).
 - [**Phaser Game**](https://phaser-game-arkanoid.vercel.app/) – developing a browser game using Phaser
